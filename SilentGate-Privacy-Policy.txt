@@ -1,0 +1,53 @@
+SILENTGATE PRIVACY POLICY
+=========================
+Developer: SplojTech
+Last updated: October 21, 2026
+
+SilentGate is a call blocker and phone app. SilentGate is designed to keep your
+call data on your own device. SilentGate has no user accounts, no advertising,
+no analytics, no tracking, and does not request Internet access.
+
+INFORMATION SILENTGATE USES ON YOUR DEVICE
+------------------------------------------
+• Contacts: used to determine whether an incoming caller is saved in your
+  contacts. Contact data never leaves your device.
+• Phone numbers and call events: used to screen calls, show caller names,
+  display your blocked log and whitelist, and manage native call blocking.
+• Call log: used to display recents and delete blocked-call entries from the
+  phone call log.
+• Local app database: stores blocked numbers, attempt timestamps, and
+  whitelisted numbers on your device so Shield and Recents work.
+
+SilentGate does not collect, transmit, sell, share, or upload personal data to
+SplojTech or any third party. SilentGate does not have the Android INTERNET
+permission.
+
+DATA RETENTION AND DELETION
+---------------------------
+All SilentGate data is stored locally on your device. You can delete it at any
+time by clearing SilentGate's app storage in Android Settings or by uninstalling
+SilentGate. Numbers that were synced to Android's native block list can be
+managed from Settings → Open system blocked numbers or removed in SilentGate
+before uninstalling.
+
+PERMISSIONS
+-----------
+SilentGate requests contacts, call log, phone, and notification permissions only
+to perform the call-screening and dialer features described above. SilentGate
+requires the Android Call Screening role and Default Phone app role to reject
+calls before ringing and to provide the in-call experience.
+
+CHILDREN
+--------
+SilentGate is not directed at children under 13 and does not knowingly collect
+personal information from children.
+
+CHANGES
+-------
+If this policy changes, the updated policy will be published with a new revision
+date.
+
+CONTACT
+-------
+SplojTech
+Support email: [add the official SplojTech support email before publishing]
