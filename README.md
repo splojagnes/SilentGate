@@ -212,13 +212,4 @@ supports it, dual-SIM switching, call-log cleanup, native block-list sync,
 default-role revocation, emergency calls, app lock, lock-screen notification
 privacy, and backup/restore.
 
-PLAY STORE EXTERNAL ITEMS
--------------------------
-• Support email: add the official SplojTech support email in Play Console.
-• Privacy policy URL: host SilentGate-Privacy-Policy.txt and paste the public URL.
-• Complete the default Phone handler, call log, contacts, Data Safety, content
-  rating, ads, and app-access declarations in Play Console.
-These require account-specific information and cannot be completed in this
-project package.
-
 Copyright 2026 SplojTech. All rights reserved.
