@@ -1,6 +1,3 @@
-SILENTGATE — GOOGLE PLAY UPLOAD DETAILS
-=======================================
-
 APP IDENTITY
 ------------
 App name:            SilentGate
