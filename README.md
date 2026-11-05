@@ -196,16 +196,6 @@ Initial public release.
 • Dual-SIM account labels and SIM selection
 • Developer: SplojTech
 
-BEFORE PUBLISHING
------------------
-[ ] Add the SplojTech support email in Play Console.
-[ ] Host SilentGate-Privacy-Policy.txt and add the public URL.
-[ ] Complete App content forms: privacy, Data Safety, content rating, ads.
-[ ] Complete the Default Phone handler declaration.
-[ ] Upload SilentGate-v1.3.0.aab (not the APK).
-[ ] Back up the signing keystore, alias, and passwords.
-[ ] Test on a physical phone with an active SIM and real incoming calls.
-
 REAL-DEVICE TESTING
 -------------------
 The emulator verification covers the core screening, dialer, ringing, actions,
